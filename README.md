@@ -16,8 +16,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Criar repositório
 - [x] Criar servidor no Discord
-- []  X
-- []  Y
+- [ ]  X
+- [ ]  Y
 
 ## 💻 Pré-requisitos
 
