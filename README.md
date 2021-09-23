@@ -34,15 +34,15 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para instalar o <osTasks>, siga estas etapas:
 
 1) Clonar o repositório:
-...
+```
 git clone https://github.com/andrelisen/osTasks-dsl.git
-...
+```
 
 2) Implementar o código na raíz do projeto na pasta www, por exemplo:
-...
+```
 cd osTasks
 php manage.php deploy --setup /var/www/htdocs/osTasks/
-...
+```
 
 
 ## 📫 Contribuindo para <osTasks>
