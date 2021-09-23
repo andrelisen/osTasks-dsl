@@ -31,7 +31,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando osTasks
 
-Para instalar o <osTasks>, siga estas etapas:
+Para instalar o osTasks, siga estas etapas:
 
 1) Clonar o repositório:
 ```
@@ -45,9 +45,9 @@ php manage.php deploy --setup /var/www/htdocs/osTasks/
 ```
 
 
-## 📫 Contribuindo para <osTasks>
+## 📫 Contribuindo para osTasks
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <osTasks>, siga estas etapas:
+Para contribuir com osTasks, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
